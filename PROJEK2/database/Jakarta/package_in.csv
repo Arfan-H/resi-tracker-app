@@ -1,0 +1,16 @@
+Nama Pengirim,Nama Penerima,Alamat Pengirim,Alamat Penerima,Nomor Paket,Jenis Pengiriman,Berat Barang,Tanggal,Cabang_Tujuan
+Alif Maulana,Zahra Nabilah,"Jl. Diponegoro no 34, Surabaya","Pluit, Jakarta",sp0017,Prioritas,2,14/06/2024 09:37:12,Jakarta
+Muhammad Rizky,Aulia Rahmawati,"Jl. Pahlawan no 21, Surabaya","Kemang, Jakarta",sp0019,Prioritas,1,16/06/2024 11:02:39,Jakarta
+Putri Lestari,Farhan Nugraha,"Perum Bukit Hijau no 3, Surabaya","Pluit, Jakarta",sp0020,Reguler,3,17/06/2024 13:15:48,Jakarta
+Adi Nugroho,Salsabila Putri,"Jl. Diponegoro no 56, Surabaya","Bintaro Jaya, Jakarta",sp0021,Prioritas,2,18/06/2024 08:27:51,Jakarta
+Dewi Novita,Hafizh Ramadhan,"Perum Graha Kencana no 11, Surabaya","Kemang, Jakarta",sp0022,Reguler,4,19/06/2024 12:39:02,Jakarta
+Budi Santoso,Alisha Rahmawati,"Jl. Pramuka no 78, Surabaya","Pluit, Jakarta",sp0023,Prioritas,1,20/06/2024 15:45:13,Jakarta
+Rini Purwanti,Fikri Aditya,"Perum Bukit Hijau no 9, Surabaya","Bintaro Jaya, Jakarta",sp0024,Reguler,3,21/06/2024 10:18:24,Jakarta
+Doni Wijaya,Adelia Putri,"Jl. Diponegoro no 45, Surabaya","Kemang, Jakarta",sp0025,Prioritas,2,22/06/2024 13:27:35,Jakarta
+Ayu Lestari,Farrel Ramadhan,"Perum Graha Kencana no 15, Surabaya","Pluit, Jakarta",sp0026,Reguler,4,23/06/2024 08:41:46,Jakarta
+Andi Saputra,Salwa Rahmawati,"Jl. Pramuka no 32, Surabaya","Bintaro Jaya, Jakarta",sp0027,Prioritas,1,24/06/2024 11:54:17,Jakarta
+Nurjanah,Alif Nugraha,"Perum Bukit Hijau no 19, Surabaya","Kemang, Jakarta",sp0028,Reguler,3,25/06/2024 14:09:28,Jakarta
+Arif Setiawan,Athira Putri,"Jl. Diponegoro no 45, Surabaya","Pluit, Jakarta",sp0029,Prioritas,2,26/06/2024 09:22:39,Jakarta
+Jane Doe,Emily Wilson,Jl. Taman Sari No. 456,Jl. Dukuh Kupang No. 789,sp0030,Retur,0.9,23/05/2024 23:49:31,Jakarta
+Tom Garcia,Isabella Hernandez,Jl. Sunset Road No. 321,Jl. Kebalen No. 654,sp0031,Retur,1.7,24/05/2024 23:49:31,Jakarta
+Jessica Lee,Alex Nguyen,Jl. Anggrek No. 789,Jl. Diponegoro No. 987,sp0032,Retur,1.2,25/05/2024 23:49:31,Jakarta
